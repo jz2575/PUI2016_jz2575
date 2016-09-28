@@ -11,3 +11,4 @@ with using age and gender to address nypothesis.
 F.Z finished Assignment 3 and explained to me the process.
 I switched Told_mean and Tnew_mean in the formula for calculating Z-Statistic following Dr. Federica's instruction to get a positive Z-Statistic.
 S.S did her assignment 1 and 2, and we mutully reviewed each other's work for questions and clarifications.
+J.Z explained his work with Jie.
