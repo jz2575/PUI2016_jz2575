@@ -2,7 +2,7 @@
 ## Author: Jianghao Zhu
 
 ### Contributor: Chunqing Xu, Franz Loza, Jianghao Zhu, Yao Wang
-### C.X, F.L, J.Z worked on assignment 3 and 4 collaboratively.  J.Z also got help from Y.W on assignment 4.
+### C.X, F.L, J.Z worked on assignment 3 and 4 collaboratively.  J.Z also got help from Y.W on assignment 4 and the extra credit question.
 
 
 ### Assignment 2:
